@@ -1,6 +1,7 @@
 # PS-Sustainability
 Week 1
 Problem Statement - "Machine learning image classification model using 9 physicochemical parameters to predict water potability, enabling rapid field testing for underserved Indian communities."
+
 DEFINITION OF MY PROBLEM STATEMENT:
 
 In many villages, people worry every day about whether their water is safe to drink. 
